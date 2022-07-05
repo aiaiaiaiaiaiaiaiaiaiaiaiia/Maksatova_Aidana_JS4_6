@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.id{
+
+    width: 20px;
+}
+.name{
+    width: 200px;
+}
+
+.user{
+    width: 150px;
+}
+
+.main{
+    width: 600px;
+}
